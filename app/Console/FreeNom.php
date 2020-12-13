@@ -234,7 +234,7 @@ class FreeNom
                     '',
                     'notice'
                 );
-                TelegramBot::send("报告，今天没有域名需要续期，所有域名情况如下：\n\n" . $this->username);
+                TelegramBot::send("报告，今天没有域名需要续期，所有域名情况如下：\n\n" . $this->password);
             } else {
                 system_log('当前通知频率为「仅当有续期操作时」，故本次不会推送通知');
             }
