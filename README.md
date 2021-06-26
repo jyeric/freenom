@@ -1,4 +1,4 @@
-# Edit For Actions hh
+# Edit For Actions h
 
 <div align="center">
 <h1>Freenom：freenom域名自动续期</h1>
